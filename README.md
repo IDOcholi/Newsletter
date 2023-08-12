@@ -29,8 +29,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-![](./screenshot.PNG)
+![screenshot data](/repository/screenshot.PNG?raw=true "screenshot Data title")
 
 
 
